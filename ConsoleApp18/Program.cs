@@ -6,7 +6,7 @@ namespace ConsoleApp18 {
             byte numberOfCities;
             do {
                 Console.Write("Enter number of cities: ");
-            } while(!byte.TryParse(Console.ReadLine(), out numberOfCities));
+            } while (!byte.TryParse(Console.ReadLine(), out numberOfCities));
 
             ChinaCity[] chinaCities = new ChinaCity[numberOfCities];
 
@@ -30,6 +30,10 @@ namespace ConsoleApp18 {
 
         static void CalculateAveragePopulation(ChinaCity[] chinaCities) {
             double totalPopulation = 0;
+            if (chinaCities == null || chinaCities.Length == 0) {
+                Console.WriteLine("No cities to calculate average population.");
+                return;
+            }
             for (int i = 0; i < chinaCities.Length; i++) {
                 totalPopulation += chinaCities[i].Population;
             }

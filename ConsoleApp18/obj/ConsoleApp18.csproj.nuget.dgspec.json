@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\ConsoleApp18\\ConsoleApp18\\ConsoleApp18.csproj": {}
+    "C:\\Users\\user\\Desktop\\C-programming\\C#_programming\\C#-Encapsulation\\ConsoleApp18\\ConsoleApp18.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\ConsoleApp18\\ConsoleApp18\\ConsoleApp18.csproj": {
+    "C:\\Users\\user\\Desktop\\C-programming\\C#_programming\\C#-Encapsulation\\ConsoleApp18\\ConsoleApp18.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\ConsoleApp18\\ConsoleApp18\\ConsoleApp18.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\C-programming\\C#_programming\\C#-Encapsulation\\ConsoleApp18\\ConsoleApp18.csproj",
         "projectName": "ConsoleApp18",
-        "projectPath": "C:\\Users\\user\\source\\repos\\ConsoleApp18\\ConsoleApp18\\ConsoleApp18.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\C-programming\\C#_programming\\C#-Encapsulation\\ConsoleApp18\\ConsoleApp18.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\ConsoleApp18\\ConsoleApp18\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\C-programming\\C#_programming\\C#-Encapsulation\\ConsoleApp18\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
